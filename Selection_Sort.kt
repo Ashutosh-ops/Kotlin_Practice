@@ -1,5 +1,5 @@
 fun main() {
-    println("Before Sort")
+    println("Unsorted elements: ")
     var A = intArrayOf(1, 7, 3, 9, 4)
     for (i in A)
         print(" "+i)
