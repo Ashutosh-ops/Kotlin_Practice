@@ -10,8 +10,7 @@ fun main() {
             if(A[j]< A[min_index])
             min_index=j
         }
-        if(i!=min_index)
-        {
+        if(i!=min_index){
             temp = A[i]
             A[i]= A[min_index]
             A[min_index]=temp
