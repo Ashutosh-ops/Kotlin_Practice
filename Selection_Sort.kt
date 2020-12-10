@@ -18,7 +18,7 @@ fun main() {
         }
     }
     println()
-    println("After sort is : ")
+    println("After sorting : ")
     for (i in A)
         print(" "+i)
     println();
